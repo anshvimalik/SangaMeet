@@ -1,1 +1,2 @@
 # SangaMeet
+Sangameet - A dynamic web application developed in Core PHP following the MVC architecture. This platform enables users to register and login, subject to admin approval for enhanced security. User data is securely stored, maintaining privacy and accountability. The robust MVC structure ensures clean code and scalability. Sangameet facilitates efficient communication between users and admin, fostering a seamless interaction platform. Explore the power of Core PHP and MVC design for a reliable and secure user management system.
